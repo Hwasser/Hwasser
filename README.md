@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hwasser
-- I am a Computer Science student at Uppsala University in Sweden.
+- I am a Msc. Computer Science student at Uppsala University in Sweden.
 
 <!---
 Hwasser/Hwasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
