@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hwasser
-- I am a Msc. Computer Science student at Uppsala University in Sweden.
+- I am a software developer from Stockholm, Sweden with an edge towards full-stack and game development.
 
 <!---
 Hwasser/Hwasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
